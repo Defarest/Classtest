@@ -1,4 +1,4 @@
-for Name in "Defarest" "is" "Awesome"
+for NAME in "Defarest" "is" "Awesome"
 do
   echo $NAME
 done
